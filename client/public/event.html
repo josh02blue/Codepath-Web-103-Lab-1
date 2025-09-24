@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Event Details</title>
+    <link rel="icon" type="image/x-icon" href="./logo.png" />
+
+    <!-- PicoCSS -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css"
+    />
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- Header + detail script -->
+    <script defer src="/public/scripts/header.js"></script>
+    <script defer src="/public/scripts/event.js"></script>
+  </head>
+  <body>
+    <header class="container"></header>
+
+    <!-- Matches lab’s required IDs/classes -->
+    <main id="gift-content" class="gift-info container">
+      <div class="image-container">
+        <img id="image" alt="Event image" src="" />
+      </div>
+
+      <div class="gift-details">
+        <h2 id="name"></h2>
+        <p id="submittedBy"></p>
+        <p id="submittedOn"></p>
+        <p id="pricePoint"></p>
+        <p id="audience"></p>
+        <p id="description"></p>
+
+        <a href="/" role="button" class="secondary">← Back</a>
+      </div>
+    </main>
+  </body>
+</html>
