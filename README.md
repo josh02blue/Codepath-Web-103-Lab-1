@@ -29,11 +29,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Web103-Lab-1](https://github.com/user-attachments/assets/bd1a0d28-98e4-4eca-97e4-28b80bf38f04)
 
-<!-- Replace this with whatever GIF tool you used! -->
-
-GIF created with ... Add GIF tool here
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
