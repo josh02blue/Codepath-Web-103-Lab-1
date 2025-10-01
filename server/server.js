@@ -1,5 +1,6 @@
 import express from "express";
 import giftsRouter from "./routes/events.js";
+import "./config/dotenv.js";
 
 const app = express();
 
