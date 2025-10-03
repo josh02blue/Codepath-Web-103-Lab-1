@@ -1,4 +1,4 @@
-# WEB103 Project 1 - Events4U
+# WEB103 Project 1 & Project 2 - Events4U
 
 Submitted by: Joshua Holguin
 
@@ -30,10 +30,11 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented required features:
 
 ![Web103-Lab-1](https://github.com/user-attachments/assets/bd1a0d28-98e4-4eca-97e4-28b80bf38f04)
-
+![Web103 Project 2](https://github.com/user-attachments/assets/22673138-dd62-4414-a331-327062488972)
 
 <!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
+[Kap](https://getkap.co/
+) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
